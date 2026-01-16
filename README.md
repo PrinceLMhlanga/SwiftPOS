@@ -1,5 +1,6 @@
 # SwiftPOS
-This is the first official release of SwiftPOS.  Highlights: 
+This is the first official release of SwiftPOS.  
+Highlights: 
 - Simple and intuitive interface
 - Fast installation with minimal setup
 - Secure and reliable performance
